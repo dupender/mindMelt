@@ -1,0 +1,6 @@
+{
+  "carnivores":[
+      {"name": "tyranasauraus", "family":"level T"},
+      {"name":"spinasaurus","family":"level S"},      
+      {"name": "wsisygasaurus", "family":"level W"}]
+}

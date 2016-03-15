@@ -1,0 +1,6 @@
+{
+  "herbivores":[
+      {"name": "stegasauraus", "family":"level 1"},
+      {"name":"diplodaurus","family":"level 2"},      
+      {"name": "wannagohomeosaurus", "family":"level 3"}]
+}
